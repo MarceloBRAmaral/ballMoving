@@ -10,7 +10,7 @@
 //TO DO:
 //1. create a particle system to use velocity object to change position
 //
-//By Marcello Silva
+//By Marcelo Silva
 
 //canvas definition
 var document;var window;var init;
